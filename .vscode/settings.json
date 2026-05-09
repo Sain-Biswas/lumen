@@ -12,5 +12,7 @@
     "**/routeTree.gen.ts": true
   },
 
+  "prettier.configPath": "../prettier.config.ts",
+
   "cSpell.words": ["unconfig", "vinxi"]
 }

@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.4.1",
+    "@t3-oss/env-core": "^0.13.11",
     "@tanstack/react-devtools": "^0.10.2",
     "@tanstack/react-router": "^1.169.2",
     "@tanstack/react-router-devtools": "^1.166.13",
@@ -29,7 +30,8 @@
     "nitro": "npm:nitro-nightly@^3.0.1-20260508-123613-d2e64906",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "tailwind-merge": "^3.5.0"
+    "tailwind-merge": "^3.5.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@rolldown/plugin-babel": "^0.2.3",

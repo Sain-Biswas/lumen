@@ -19,6 +19,7 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .nitro
 .tanstack
 .wrangler
+.temporary
 
 # dotenv environment variables files
 .env

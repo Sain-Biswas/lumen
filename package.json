@@ -1,5 +1,6 @@
 {
   "name": "lumen",
+  "description": "Lumen is a modern web application for capturing, organizing, and connecting ideas from literature, philosophy, and spiritual texts—helping readers illuminate patterns of thought through tags, references, and deep contextual linking.",
   "private": true,
   "type": "module",
   "imports": {

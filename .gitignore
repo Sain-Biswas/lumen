@@ -1,13 +1,40 @@
+# dependencies (bun install)
 node_modules
-.DS_Store
+
+# output
 dist
 dist-ssr
-*.local
-.env
+.output
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+_.log
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
+
+# development
 .nitro
 .tanstack
 .wrangler
-.output
+
+# dotenv environment variables files
+.env
+.env.*
+!.env.sample
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# miscellaneous
+*.local
 .vinxi
 __unconfig*
 todos.json
